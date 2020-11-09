@@ -4,7 +4,7 @@
 # TEAM
 THis is a new change
 
-    <name> -- <role> -- <twitter>
+    Bazza  Bazza@me.com @bazza
 
 # THANKS
 
