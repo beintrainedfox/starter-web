@@ -10,9 +10,13 @@ THis is an example of a blah blahg bl;ah b;ah
 
 Sample website with plenty of files for demos
 
+More gibberish in here
+
 ## How to contribute
 
 
 ## Deloyment
+
+THis is a eimple web project for blah blah
 
 ## Description
