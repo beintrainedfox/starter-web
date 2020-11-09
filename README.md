@@ -20,3 +20,7 @@ More gibberish in here
 THis is a eimple web project for blah blah
 
 ## Description
+
+### Copyright
+
+2020 Git.Trianig.
