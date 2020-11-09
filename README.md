@@ -13,7 +13,7 @@ Sample website with plenty of files for demos
 More gibberish in here
 
 ## How to contribute
-
+Pleae fork this repo and issue PR for review
 
 ## Deloyment
 
