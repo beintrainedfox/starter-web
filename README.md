@@ -9,7 +9,7 @@ This repository is for showing how Git and GitHub work
 THis is an example of a blah blahg bl;ah b;ah
 
 ## Purpose
-
+boo
 Sample website with plenty of files for demos
 
 More gibberish in here
